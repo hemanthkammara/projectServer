@@ -1,0 +1,29 @@
+
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password"
+      
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password"
+    },
+    {
+      "id": 3,
+      "name": "sundhar",
+      "email": "sundar@example.com",
+      "password": "password"
+    }
+  ],
+
+  "login":[],
+  
+  "bmi":[]
+  
+}

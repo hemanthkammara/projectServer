@@ -1,0 +1,23 @@
+{
+  "name": "deployexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemanthkammara/deployExample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemanthkammara/deployExample/issues"
+  },
+  "homepage": "https://github.com/hemanthkammara/deployExample#readme",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
